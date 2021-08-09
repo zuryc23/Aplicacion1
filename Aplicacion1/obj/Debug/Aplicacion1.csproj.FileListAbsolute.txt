@@ -1,0 +1,7 @@
+C:\Users\Armando Rios\OneDrive - Colegio San José de la Encarnación\CICLO 2021\BIMESTRE IV\Programación\Aplicacion1\Aplicacion1\bin\Debug\Aplicacion1.exe.config
+C:\Users\Armando Rios\OneDrive - Colegio San José de la Encarnación\CICLO 2021\BIMESTRE IV\Programación\Aplicacion1\Aplicacion1\bin\Debug\Aplicacion1.exe
+C:\Users\Armando Rios\OneDrive - Colegio San José de la Encarnación\CICLO 2021\BIMESTRE IV\Programación\Aplicacion1\Aplicacion1\bin\Debug\Aplicacion1.pdb
+C:\Users\Armando Rios\OneDrive - Colegio San José de la Encarnación\CICLO 2021\BIMESTRE IV\Programación\Aplicacion1\Aplicacion1\obj\Debug\Aplicacion1.csprojAssemblyReference.cache
+C:\Users\Armando Rios\OneDrive - Colegio San José de la Encarnación\CICLO 2021\BIMESTRE IV\Programación\Aplicacion1\Aplicacion1\obj\Debug\Aplicacion1.csproj.CoreCompileInputs.cache
+C:\Users\Armando Rios\OneDrive - Colegio San José de la Encarnación\CICLO 2021\BIMESTRE IV\Programación\Aplicacion1\Aplicacion1\obj\Debug\Aplicacion1.exe
+C:\Users\Armando Rios\OneDrive - Colegio San José de la Encarnación\CICLO 2021\BIMESTRE IV\Programación\Aplicacion1\Aplicacion1\obj\Debug\Aplicacion1.pdb
